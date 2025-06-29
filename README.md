@@ -60,7 +60,7 @@ WhatsZip Viewer is built with a strong commitment to user privacy.
 
 * **Temporary Files:** Any temporary files created for media playback are deleted when the app closes or the media is no longer needed. They are never retained or uploaded.
 
-You can read the full privacy policy [here](https://www.google.com/search?q=./privacy-policy.html).
+You can read the full privacy policy [here](https://bxamra.github.io/products/whatszip-viewer/privacy-policy.html).
 
 ## ⬇️ Download & Installation
 
